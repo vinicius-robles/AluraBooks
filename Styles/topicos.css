@@ -52,3 +52,15 @@
     }
 
 }
+
+@media screen and (min-width: 1728px) {
+
+    .topicos__titulo {
+        font-size: 32px;
+    }
+
+    .topicos__lista {
+        width: 40%;
+    }
+
+}
