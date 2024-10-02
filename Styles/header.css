@@ -139,7 +139,7 @@
    }
 
    .lista-menu__item:hover {
-        background-color: var(--azul-degrade);
+        background-color: var(--azul);
    }
 
    .lista-menu__item:hover>.lista-menu__link {
